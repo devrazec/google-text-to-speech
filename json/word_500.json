@@ -1,0 +1,2502 @@
+[
+  {
+    "en": "a",
+    "pt": "um",
+    "audio": "a.mp3"
+  },
+  {
+    "en": "about",
+    "pt": "sobre",
+    "audio": "about.mp3"
+  },
+  {
+    "en": "after",
+    "pt": "depois",
+    "audio": "after.mp3"
+  },
+  {
+    "en": "all",
+    "pt": "tudo",
+    "audio": "all.mp3"
+  },
+  {
+    "en": "also",
+    "pt": "também",
+    "audio": "also.mp3"
+  },
+  {
+    "en": "and",
+    "pt": "e",
+    "audio": "and.mp3"
+  },
+  {
+    "en": "as",
+    "pt": "como",
+    "audio": "as.mp3"
+  },
+  {
+    "en": "at",
+    "pt": "em",
+    "audio": "at.mp3"
+  },
+  {
+    "en": "be",
+    "pt": "ser",
+    "audio": "be.mp3"
+  },
+  {
+    "en": "because",
+    "pt": "porque",
+    "audio": "because.mp3"
+  },
+  {
+    "en": "but",
+    "pt": "mas",
+    "audio": "but.mp3"
+  },
+  {
+    "en": "by",
+    "pt": "por",
+    "audio": "by.mp3"
+  },
+  {
+    "en": "can",
+    "pt": "poder",
+    "audio": "can.mp3"
+  },
+  {
+    "en": "come",
+    "pt": "vir",
+    "audio": "come.mp3"
+  },
+  {
+    "en": "do",
+    "pt": "fazer",
+    "audio": "do.mp3"
+  },
+  {
+    "en": "down",
+    "pt": "baixo",
+    "audio": "down.mp3"
+  },
+  {
+    "en": "even",
+    "pt": "mesmo",
+    "audio": "even.mp3"
+  },
+  {
+    "en": "first",
+    "pt": "primeiro",
+    "audio": "first.mp3"
+  },
+  {
+    "en": "for",
+    "pt": "para",
+    "audio": "for.mp3"
+  },
+  {
+    "en": "from",
+    "pt": "de",
+    "audio": "from.mp3"
+  },
+  {
+    "en": "get",
+    "pt": "obter",
+    "audio": "get.mp3"
+  },
+  {
+    "en": "give",
+    "pt": "dar",
+    "audio": "give.mp3"
+  },
+  {
+    "en": "go",
+    "pt": "ir",
+    "audio": "go.mp3"
+  },
+  {
+    "en": "good",
+    "pt": "bom",
+    "audio": "good.mp3"
+  },
+  {
+    "en": "have",
+    "pt": "ter",
+    "audio": "have.mp3"
+  },
+  {
+    "en": "he",
+    "pt": "ele",
+    "audio": "he.mp3"
+  },
+  {
+    "en": "her",
+    "pt": "ela",
+    "audio": "her.mp3"
+  },
+  {
+    "en": "here",
+    "pt": "aqui",
+    "audio": "here.mp3"
+  },
+  {
+    "en": "him",
+    "pt": "ele",
+    "audio": "him.mp3"
+  },
+  {
+    "en": "his",
+    "pt": "dele",
+    "audio": "his.mp3"
+  },
+  {
+    "en": "how",
+    "pt": "como",
+    "audio": "how.mp3"
+  },
+  {
+    "en": "I",
+    "pt": "eu",
+    "audio": "I.mp3"
+  },
+  {
+    "en": "if",
+    "pt": "se",
+    "audio": "if.mp3"
+  },
+  {
+    "en": "in",
+    "pt": "em",
+    "audio": "in.mp3"
+  },
+  {
+    "en": "into",
+    "pt": "em",
+    "audio": "into.mp3"
+  },
+  {
+    "en": "it",
+    "pt": "isso",
+    "audio": "it.mp3"
+  },
+  {
+    "en": "its",
+    "pt": "seu",
+    "audio": "its.mp3"
+  },
+  {
+    "en": "just",
+    "pt": "apenas",
+    "audio": "just.mp3"
+  },
+  {
+    "en": "know",
+    "pt": "saber",
+    "audio": "know.mp3"
+  },
+  {
+    "en": "like",
+    "pt": "gostar",
+    "audio": "like.mp3"
+  },
+  {
+    "en": "look",
+    "pt": "olhar",
+    "audio": "look.mp3"
+  },
+  {
+    "en": "make",
+    "pt": "fazer",
+    "audio": "make.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "many",
+    "pt": "muitos",
+    "audio": "many.mp3"
+  },
+  {
+    "en": "me",
+    "pt": "me",
+    "audio": "me.mp3"
+  },
+  {
+    "en": "more",
+    "pt": "mais",
+    "audio": "more.mp3"
+  },
+  {
+    "en": "my",
+    "pt": "meu",
+    "audio": "my.mp3"
+  },
+  {
+    "en": "new",
+    "pt": "novo",
+    "audio": "new.mp3"
+  },
+  {
+    "en": "no",
+    "pt": "não",
+    "audio": "no.mp3"
+  },
+  {
+    "en": "not",
+    "pt": "não",
+    "audio": "not.mp3"
+  },
+  {
+    "en": "now",
+    "pt": "agora",
+    "audio": "now.mp3"
+  },
+  {
+    "en": "of",
+    "pt": "de",
+    "audio": "of.mp3"
+  },
+  {
+    "en": "on",
+    "pt": "em",
+    "audio": "on.mp3"
+  },
+  {
+    "en": "one",
+    "pt": "um",
+    "audio": "one.mp3"
+  },
+  {
+    "en": "only",
+    "pt": "somente",
+    "audio": "only.mp3"
+  },
+  {
+    "en": "or",
+    "pt": "ou",
+    "audio": "or.mp3"
+  },
+  {
+    "en": "other",
+    "pt": "outro",
+    "audio": "other.mp3"
+  },
+  {
+    "en": "our",
+    "pt": "nosso",
+    "audio": "our.mp3"
+  },
+  {
+    "en": "out",
+    "pt": "fora",
+    "audio": "out.mp3"
+  },
+  {
+    "en": "people",
+    "pt": "pessoas",
+    "audio": "people.mp3"
+  },
+  {
+    "en": "say",
+    "pt": "dizer",
+    "audio": "say.mp3"
+  },
+  {
+    "en": "see",
+    "pt": "ver",
+    "audio": "see.mp3"
+  },
+  {
+    "en": "she",
+    "pt": "ela",
+    "audio": "she.mp3"
+  },
+  {
+    "en": "so",
+    "pt": "então",
+    "audio": "so.mp3"
+  },
+  {
+    "en": "some",
+    "pt": "algum",
+    "audio": "some.mp3"
+  },
+  {
+    "en": "take",
+    "pt": "pegar",
+    "audio": "take.mp3"
+  },
+  {
+    "en": "than",
+    "pt": "do que",
+    "audio": "than.mp3"
+  },
+  {
+    "en": "that",
+    "pt": "que",
+    "audio": "that.mp3"
+  },
+  {
+    "en": "the",
+    "pt": "o",
+    "audio": "the.mp3"
+  },
+  {
+    "en": "their",
+    "pt": "deles",
+    "audio": "their.mp3"
+  },
+  {
+    "en": "them",
+    "pt": "eles",
+    "audio": "them.mp3"
+  },
+  {
+    "en": "then",
+    "pt": "então",
+    "audio": "then.mp3"
+  },
+  {
+    "en": "there",
+    "pt": "lá",
+    "audio": "there.mp3"
+  },
+  {
+    "en": "these",
+    "pt": "estes",
+    "audio": "these.mp3"
+  },
+  {
+    "en": "they",
+    "pt": "eles",
+    "audio": "they.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "think",
+    "pt": "pensar",
+    "audio": "think.mp3"
+  },
+  {
+    "en": "this",
+    "pt": "este",
+    "audio": "this.mp3"
+  },
+  {
+    "en": "those",
+    "pt": "aqueles",
+    "audio": "those.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "to",
+    "pt": "para",
+    "audio": "to.mp3"
+  },
+  {
+    "en": "two",
+    "pt": "dois",
+    "audio": "two.mp3"
+  },
+  {
+    "en": "up",
+    "pt": "cima",
+    "audio": "up.mp3"
+  },
+  {
+    "en": "use",
+    "pt": "usar",
+    "audio": "use.mp3"
+  },
+  {
+    "en": "very",
+    "pt": "muito",
+    "audio": "very.mp3"
+  },
+  {
+    "en": "want",
+    "pt": "querer",
+    "audio": "want.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "we",
+    "pt": "nós",
+    "audio": "we.mp3"
+  },
+  {
+    "en": "well",
+    "pt": "bem",
+    "audio": "well.mp3"
+  },
+  {
+    "en": "what",
+    "pt": "o que",
+    "audio": "what.mp3"
+  },
+  {
+    "en": "when",
+    "pt": "quando",
+    "audio": "when.mp3"
+  },
+  {
+    "en": "which",
+    "pt": "qual",
+    "audio": "which.mp3"
+  },
+  {
+    "en": "who",
+    "pt": "quem",
+    "audio": "who.mp3"
+  },
+  {
+    "en": "will",
+    "pt": "vai",
+    "audio": "will.mp3"
+  },
+  {
+    "en": "with",
+    "pt": "com",
+    "audio": "with.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "would",
+    "pt": "gostaria",
+    "audio": "would.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "you",
+    "pt": "você",
+    "audio": "you.mp3"
+  },
+  {
+    "en": "your",
+    "pt": "seu",
+    "audio": "your.mp3"
+  },
+  {
+    "en": "a",
+    "pt": "um",
+    "audio": "a.mp3"
+  },
+  {
+    "en": "about",
+    "pt": "sobre",
+    "audio": "about.mp3"
+  },
+  {
+    "en": "after",
+    "pt": "depois",
+    "audio": "after.mp3"
+  },
+  {
+    "en": "all",
+    "pt": "tudo",
+    "audio": "all.mp3"
+  },
+  {
+    "en": "also",
+    "pt": "também",
+    "audio": "also.mp3"
+  },
+  {
+    "en": "and",
+    "pt": "e",
+    "audio": "and.mp3"
+  },
+  {
+    "en": "as",
+    "pt": "como",
+    "audio": "as.mp3"
+  },
+  {
+    "en": "at",
+    "pt": "em",
+    "audio": "at.mp3"
+  },
+  {
+    "en": "be",
+    "pt": "ser",
+    "audio": "be.mp3"
+  },
+  {
+    "en": "because",
+    "pt": "porque",
+    "audio": "because.mp3"
+  },
+  {
+    "en": "but",
+    "pt": "mas",
+    "audio": "but.mp3"
+  },
+  {
+    "en": "by",
+    "pt": "por",
+    "audio": "by.mp3"
+  },
+  {
+    "en": "can",
+    "pt": "poder",
+    "audio": "can.mp3"
+  },
+  {
+    "en": "come",
+    "pt": "vir",
+    "audio": "come.mp3"
+  },
+  {
+    "en": "do",
+    "pt": "fazer",
+    "audio": "do.mp3"
+  },
+  {
+    "en": "down",
+    "pt": "baixo",
+    "audio": "down.mp3"
+  },
+  {
+    "en": "even",
+    "pt": "mesmo",
+    "audio": "even.mp3"
+  },
+  {
+    "en": "first",
+    "pt": "primeiro",
+    "audio": "first.mp3"
+  },
+  {
+    "en": "for",
+    "pt": "para",
+    "audio": "for.mp3"
+  },
+  {
+    "en": "from",
+    "pt": "de",
+    "audio": "from.mp3"
+  },
+  {
+    "en": "get",
+    "pt": "obter",
+    "audio": "get.mp3"
+  },
+  {
+    "en": "give",
+    "pt": "dar",
+    "audio": "give.mp3"
+  },
+  {
+    "en": "go",
+    "pt": "ir",
+    "audio": "go.mp3"
+  },
+  {
+    "en": "good",
+    "pt": "bom",
+    "audio": "good.mp3"
+  },
+  {
+    "en": "have",
+    "pt": "ter",
+    "audio": "have.mp3"
+  },
+  {
+    "en": "he",
+    "pt": "ele",
+    "audio": "he.mp3"
+  },
+  {
+    "en": "her",
+    "pt": "ela",
+    "audio": "her.mp3"
+  },
+  {
+    "en": "here",
+    "pt": "aqui",
+    "audio": "here.mp3"
+  },
+  {
+    "en": "him",
+    "pt": "ele",
+    "audio": "him.mp3"
+  },
+  {
+    "en": "his",
+    "pt": "dele",
+    "audio": "his.mp3"
+  },
+  {
+    "en": "how",
+    "pt": "como",
+    "audio": "how.mp3"
+  },
+  {
+    "en": "I",
+    "pt": "eu",
+    "audio": "I.mp3"
+  },
+  {
+    "en": "if",
+    "pt": "se",
+    "audio": "if.mp3"
+  },
+  {
+    "en": "in",
+    "pt": "em",
+    "audio": "in.mp3"
+  },
+  {
+    "en": "into",
+    "pt": "em",
+    "audio": "into.mp3"
+  },
+  {
+    "en": "it",
+    "pt": "isso",
+    "audio": "it.mp3"
+  },
+  {
+    "en": "its",
+    "pt": "seu",
+    "audio": "its.mp3"
+  },
+  {
+    "en": "just",
+    "pt": "apenas",
+    "audio": "just.mp3"
+  },
+  {
+    "en": "know",
+    "pt": "saber",
+    "audio": "know.mp3"
+  },
+  {
+    "en": "like",
+    "pt": "gostar",
+    "audio": "like.mp3"
+  },
+  {
+    "en": "look",
+    "pt": "olhar",
+    "audio": "look.mp3"
+  },
+  {
+    "en": "make",
+    "pt": "fazer",
+    "audio": "make.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "many",
+    "pt": "muitos",
+    "audio": "many.mp3"
+  },
+  {
+    "en": "me",
+    "pt": "me",
+    "audio": "me.mp3"
+  },
+  {
+    "en": "more",
+    "pt": "mais",
+    "audio": "more.mp3"
+  },
+  {
+    "en": "my",
+    "pt": "meu",
+    "audio": "my.mp3"
+  },
+  {
+    "en": "new",
+    "pt": "novo",
+    "audio": "new.mp3"
+  },
+  {
+    "en": "no",
+    "pt": "não",
+    "audio": "no.mp3"
+  },
+  {
+    "en": "not",
+    "pt": "não",
+    "audio": "not.mp3"
+  },
+  {
+    "en": "now",
+    "pt": "agora",
+    "audio": "now.mp3"
+  },
+  {
+    "en": "of",
+    "pt": "de",
+    "audio": "of.mp3"
+  },
+  {
+    "en": "on",
+    "pt": "em",
+    "audio": "on.mp3"
+  },
+  {
+    "en": "one",
+    "pt": "um",
+    "audio": "one.mp3"
+  },
+  {
+    "en": "only",
+    "pt": "somente",
+    "audio": "only.mp3"
+  },
+  {
+    "en": "or",
+    "pt": "ou",
+    "audio": "or.mp3"
+  },
+  {
+    "en": "other",
+    "pt": "outro",
+    "audio": "other.mp3"
+  },
+  {
+    "en": "our",
+    "pt": "nosso",
+    "audio": "our.mp3"
+  },
+  {
+    "en": "out",
+    "pt": "fora",
+    "audio": "out.mp3"
+  },
+  {
+    "en": "people",
+    "pt": "pessoas",
+    "audio": "people.mp3"
+  },
+  {
+    "en": "say",
+    "pt": "dizer",
+    "audio": "say.mp3"
+  },
+  {
+    "en": "see",
+    "pt": "ver",
+    "audio": "see.mp3"
+  },
+  {
+    "en": "she",
+    "pt": "ela",
+    "audio": "she.mp3"
+  },
+  {
+    "en": "so",
+    "pt": "então",
+    "audio": "so.mp3"
+  },
+  {
+    "en": "some",
+    "pt": "algum",
+    "audio": "some.mp3"
+  },
+  {
+    "en": "take",
+    "pt": "pegar",
+    "audio": "take.mp3"
+  },
+  {
+    "en": "than",
+    "pt": "do que",
+    "audio": "than.mp3"
+  },
+  {
+    "en": "that",
+    "pt": "que",
+    "audio": "that.mp3"
+  },
+  {
+    "en": "the",
+    "pt": "o",
+    "audio": "the.mp3"
+  },
+  {
+    "en": "their",
+    "pt": "deles",
+    "audio": "their.mp3"
+  },
+  {
+    "en": "them",
+    "pt": "eles",
+    "audio": "them.mp3"
+  },
+  {
+    "en": "then",
+    "pt": "então",
+    "audio": "then.mp3"
+  },
+  {
+    "en": "there",
+    "pt": "lá",
+    "audio": "there.mp3"
+  },
+  {
+    "en": "these",
+    "pt": "estes",
+    "audio": "these.mp3"
+  },
+  {
+    "en": "they",
+    "pt": "eles",
+    "audio": "they.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "think",
+    "pt": "pensar",
+    "audio": "think.mp3"
+  },
+  {
+    "en": "this",
+    "pt": "este",
+    "audio": "this.mp3"
+  },
+  {
+    "en": "those",
+    "pt": "aqueles",
+    "audio": "those.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "to",
+    "pt": "para",
+    "audio": "to.mp3"
+  },
+  {
+    "en": "two",
+    "pt": "dois",
+    "audio": "two.mp3"
+  },
+  {
+    "en": "up",
+    "pt": "cima",
+    "audio": "up.mp3"
+  },
+  {
+    "en": "use",
+    "pt": "usar",
+    "audio": "use.mp3"
+  },
+  {
+    "en": "very",
+    "pt": "muito",
+    "audio": "very.mp3"
+  },
+  {
+    "en": "want",
+    "pt": "querer",
+    "audio": "want.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "we",
+    "pt": "nós",
+    "audio": "we.mp3"
+  },
+  {
+    "en": "well",
+    "pt": "bem",
+    "audio": "well.mp3"
+  },
+  {
+    "en": "what",
+    "pt": "o que",
+    "audio": "what.mp3"
+  },
+  {
+    "en": "when",
+    "pt": "quando",
+    "audio": "when.mp3"
+  },
+  {
+    "en": "which",
+    "pt": "qual",
+    "audio": "which.mp3"
+  },
+  {
+    "en": "who",
+    "pt": "quem",
+    "audio": "who.mp3"
+  },
+  {
+    "en": "will",
+    "pt": "vai",
+    "audio": "will.mp3"
+  },
+  {
+    "en": "with",
+    "pt": "com",
+    "audio": "with.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "would",
+    "pt": "gostaria",
+    "audio": "would.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "you",
+    "pt": "você",
+    "audio": "you.mp3"
+  },
+  {
+    "en": "your",
+    "pt": "seu",
+    "audio": "your.mp3"
+  },
+  {
+    "en": "a",
+    "pt": "um",
+    "audio": "a.mp3"
+  },
+  {
+    "en": "about",
+    "pt": "sobre",
+    "audio": "about.mp3"
+  },
+  {
+    "en": "after",
+    "pt": "depois",
+    "audio": "after.mp3"
+  },
+  {
+    "en": "all",
+    "pt": "tudo",
+    "audio": "all.mp3"
+  },
+  {
+    "en": "also",
+    "pt": "também",
+    "audio": "also.mp3"
+  },
+  {
+    "en": "and",
+    "pt": "e",
+    "audio": "and.mp3"
+  },
+  {
+    "en": "as",
+    "pt": "como",
+    "audio": "as.mp3"
+  },
+  {
+    "en": "at",
+    "pt": "em",
+    "audio": "at.mp3"
+  },
+  {
+    "en": "be",
+    "pt": "ser",
+    "audio": "be.mp3"
+  },
+  {
+    "en": "because",
+    "pt": "porque",
+    "audio": "because.mp3"
+  },
+  {
+    "en": "but",
+    "pt": "mas",
+    "audio": "but.mp3"
+  },
+  {
+    "en": "by",
+    "pt": "por",
+    "audio": "by.mp3"
+  },
+  {
+    "en": "can",
+    "pt": "poder",
+    "audio": "can.mp3"
+  },
+  {
+    "en": "come",
+    "pt": "vir",
+    "audio": "come.mp3"
+  },
+  {
+    "en": "do",
+    "pt": "fazer",
+    "audio": "do.mp3"
+  },
+  {
+    "en": "down",
+    "pt": "baixo",
+    "audio": "down.mp3"
+  },
+  {
+    "en": "even",
+    "pt": "mesmo",
+    "audio": "even.mp3"
+  },
+  {
+    "en": "first",
+    "pt": "primeiro",
+    "audio": "first.mp3"
+  },
+  {
+    "en": "for",
+    "pt": "para",
+    "audio": "for.mp3"
+  },
+  {
+    "en": "from",
+    "pt": "de",
+    "audio": "from.mp3"
+  },
+  {
+    "en": "get",
+    "pt": "obter",
+    "audio": "get.mp3"
+  },
+  {
+    "en": "give",
+    "pt": "dar",
+    "audio": "give.mp3"
+  },
+  {
+    "en": "go",
+    "pt": "ir",
+    "audio": "go.mp3"
+  },
+  {
+    "en": "good",
+    "pt": "bom",
+    "audio": "good.mp3"
+  },
+  {
+    "en": "have",
+    "pt": "ter",
+    "audio": "have.mp3"
+  },
+  {
+    "en": "he",
+    "pt": "ele",
+    "audio": "he.mp3"
+  },
+  {
+    "en": "her",
+    "pt": "ela",
+    "audio": "her.mp3"
+  },
+  {
+    "en": "here",
+    "pt": "aqui",
+    "audio": "here.mp3"
+  },
+  {
+    "en": "him",
+    "pt": "ele",
+    "audio": "him.mp3"
+  },
+  {
+    "en": "his",
+    "pt": "dele",
+    "audio": "his.mp3"
+  },
+  {
+    "en": "how",
+    "pt": "como",
+    "audio": "how.mp3"
+  },
+  {
+    "en": "I",
+    "pt": "eu",
+    "audio": "I.mp3"
+  },
+  {
+    "en": "if",
+    "pt": "se",
+    "audio": "if.mp3"
+  },
+  {
+    "en": "in",
+    "pt": "em",
+    "audio": "in.mp3"
+  },
+  {
+    "en": "into",
+    "pt": "em",
+    "audio": "into.mp3"
+  },
+  {
+    "en": "it",
+    "pt": "isso",
+    "audio": "it.mp3"
+  },
+  {
+    "en": "its",
+    "pt": "seu",
+    "audio": "its.mp3"
+  },
+  {
+    "en": "just",
+    "pt": "apenas",
+    "audio": "just.mp3"
+  },
+  {
+    "en": "know",
+    "pt": "saber",
+    "audio": "know.mp3"
+  },
+  {
+    "en": "like",
+    "pt": "gostar",
+    "audio": "like.mp3"
+  },
+  {
+    "en": "look",
+    "pt": "olhar",
+    "audio": "look.mp3"
+  },
+  {
+    "en": "make",
+    "pt": "fazer",
+    "audio": "make.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "many",
+    "pt": "muitos",
+    "audio": "many.mp3"
+  },
+  {
+    "en": "me",
+    "pt": "me",
+    "audio": "me.mp3"
+  },
+  {
+    "en": "more",
+    "pt": "mais",
+    "audio": "more.mp3"
+  },
+  {
+    "en": "my",
+    "pt": "meu",
+    "audio": "my.mp3"
+  },
+  {
+    "en": "new",
+    "pt": "novo",
+    "audio": "new.mp3"
+  },
+  {
+    "en": "no",
+    "pt": "não",
+    "audio": "no.mp3"
+  },
+  {
+    "en": "not",
+    "pt": "não",
+    "audio": "not.mp3"
+  },
+  {
+    "en": "now",
+    "pt": "agora",
+    "audio": "now.mp3"
+  },
+  {
+    "en": "of",
+    "pt": "de",
+    "audio": "of.mp3"
+  },
+  {
+    "en": "on",
+    "pt": "em",
+    "audio": "on.mp3"
+  },
+  {
+    "en": "one",
+    "pt": "um",
+    "audio": "one.mp3"
+  },
+  {
+    "en": "only",
+    "pt": "somente",
+    "audio": "only.mp3"
+  },
+  {
+    "en": "or",
+    "pt": "ou",
+    "audio": "or.mp3"
+  },
+  {
+    "en": "other",
+    "pt": "outro",
+    "audio": "other.mp3"
+  },
+  {
+    "en": "our",
+    "pt": "nosso",
+    "audio": "our.mp3"
+  },
+  {
+    "en": "out",
+    "pt": "fora",
+    "audio": "out.mp3"
+  },
+  {
+    "en": "people",
+    "pt": "pessoas",
+    "audio": "people.mp3"
+  },
+  {
+    "en": "say",
+    "pt": "dizer",
+    "audio": "say.mp3"
+  },
+  {
+    "en": "see",
+    "pt": "ver",
+    "audio": "see.mp3"
+  },
+  {
+    "en": "she",
+    "pt": "ela",
+    "audio": "she.mp3"
+  },
+  {
+    "en": "so",
+    "pt": "então",
+    "audio": "so.mp3"
+  },
+  {
+    "en": "some",
+    "pt": "algum",
+    "audio": "some.mp3"
+  },
+  {
+    "en": "take",
+    "pt": "pegar",
+    "audio": "take.mp3"
+  },
+  {
+    "en": "than",
+    "pt": "do que",
+    "audio": "than.mp3"
+  },
+  {
+    "en": "that",
+    "pt": "que",
+    "audio": "that.mp3"
+  },
+  {
+    "en": "the",
+    "pt": "o",
+    "audio": "the.mp3"
+  },
+  {
+    "en": "their",
+    "pt": "deles",
+    "audio": "their.mp3"
+  },
+  {
+    "en": "them",
+    "pt": "eles",
+    "audio": "them.mp3"
+  },
+  {
+    "en": "then",
+    "pt": "então",
+    "audio": "then.mp3"
+  },
+  {
+    "en": "there",
+    "pt": "lá",
+    "audio": "there.mp3"
+  },
+  {
+    "en": "these",
+    "pt": "estes",
+    "audio": "these.mp3"
+  },
+  {
+    "en": "they",
+    "pt": "eles",
+    "audio": "they.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "think",
+    "pt": "pensar",
+    "audio": "think.mp3"
+  },
+  {
+    "en": "this",
+    "pt": "este",
+    "audio": "this.mp3"
+  },
+  {
+    "en": "those",
+    "pt": "aqueles",
+    "audio": "those.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "to",
+    "pt": "para",
+    "audio": "to.mp3"
+  },
+  {
+    "en": "two",
+    "pt": "dois",
+    "audio": "two.mp3"
+  },
+  {
+    "en": "up",
+    "pt": "cima",
+    "audio": "up.mp3"
+  },
+  {
+    "en": "use",
+    "pt": "usar",
+    "audio": "use.mp3"
+  },
+  {
+    "en": "very",
+    "pt": "muito",
+    "audio": "very.mp3"
+  },
+  {
+    "en": "want",
+    "pt": "querer",
+    "audio": "want.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "we",
+    "pt": "nós",
+    "audio": "we.mp3"
+  },
+  {
+    "en": "well",
+    "pt": "bem",
+    "audio": "well.mp3"
+  },
+  {
+    "en": "what",
+    "pt": "o que",
+    "audio": "what.mp3"
+  },
+  {
+    "en": "when",
+    "pt": "quando",
+    "audio": "when.mp3"
+  },
+  {
+    "en": "which",
+    "pt": "qual",
+    "audio": "which.mp3"
+  },
+  {
+    "en": "who",
+    "pt": "quem",
+    "audio": "who.mp3"
+  },
+  {
+    "en": "will",
+    "pt": "vai",
+    "audio": "will.mp3"
+  },
+  {
+    "en": "with",
+    "pt": "com",
+    "audio": "with.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "would",
+    "pt": "gostaria",
+    "audio": "would.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "you",
+    "pt": "você",
+    "audio": "you.mp3"
+  },
+  {
+    "en": "your",
+    "pt": "seu",
+    "audio": "your.mp3"
+  },
+  {
+    "en": "a",
+    "pt": "um",
+    "audio": "a.mp3"
+  },
+  {
+    "en": "about",
+    "pt": "sobre",
+    "audio": "about.mp3"
+  },
+  {
+    "en": "after",
+    "pt": "depois",
+    "audio": "after.mp3"
+  },
+  {
+    "en": "all",
+    "pt": "tudo",
+    "audio": "all.mp3"
+  },
+  {
+    "en": "also",
+    "pt": "também",
+    "audio": "also.mp3"
+  },
+  {
+    "en": "and",
+    "pt": "e",
+    "audio": "and.mp3"
+  },
+  {
+    "en": "as",
+    "pt": "como",
+    "audio": "as.mp3"
+  },
+  {
+    "en": "at",
+    "pt": "em",
+    "audio": "at.mp3"
+  },
+  {
+    "en": "be",
+    "pt": "ser",
+    "audio": "be.mp3"
+  },
+  {
+    "en": "because",
+    "pt": "porque",
+    "audio": "because.mp3"
+  },
+  {
+    "en": "but",
+    "pt": "mas",
+    "audio": "but.mp3"
+  },
+  {
+    "en": "by",
+    "pt": "por",
+    "audio": "by.mp3"
+  },
+  {
+    "en": "can",
+    "pt": "poder",
+    "audio": "can.mp3"
+  },
+  {
+    "en": "come",
+    "pt": "vir",
+    "audio": "come.mp3"
+  },
+  {
+    "en": "do",
+    "pt": "fazer",
+    "audio": "do.mp3"
+  },
+  {
+    "en": "down",
+    "pt": "baixo",
+    "audio": "down.mp3"
+  },
+  {
+    "en": "even",
+    "pt": "mesmo",
+    "audio": "even.mp3"
+  },
+  {
+    "en": "first",
+    "pt": "primeiro",
+    "audio": "first.mp3"
+  },
+  {
+    "en": "for",
+    "pt": "para",
+    "audio": "for.mp3"
+  },
+  {
+    "en": "from",
+    "pt": "de",
+    "audio": "from.mp3"
+  },
+  {
+    "en": "get",
+    "pt": "obter",
+    "audio": "get.mp3"
+  },
+  {
+    "en": "give",
+    "pt": "dar",
+    "audio": "give.mp3"
+  },
+  {
+    "en": "go",
+    "pt": "ir",
+    "audio": "go.mp3"
+  },
+  {
+    "en": "good",
+    "pt": "bom",
+    "audio": "good.mp3"
+  },
+  {
+    "en": "have",
+    "pt": "ter",
+    "audio": "have.mp3"
+  },
+  {
+    "en": "he",
+    "pt": "ele",
+    "audio": "he.mp3"
+  },
+  {
+    "en": "her",
+    "pt": "ela",
+    "audio": "her.mp3"
+  },
+  {
+    "en": "here",
+    "pt": "aqui",
+    "audio": "here.mp3"
+  },
+  {
+    "en": "him",
+    "pt": "ele",
+    "audio": "him.mp3"
+  },
+  {
+    "en": "his",
+    "pt": "dele",
+    "audio": "his.mp3"
+  },
+  {
+    "en": "how",
+    "pt": "como",
+    "audio": "how.mp3"
+  },
+  {
+    "en": "I",
+    "pt": "eu",
+    "audio": "I.mp3"
+  },
+  {
+    "en": "if",
+    "pt": "se",
+    "audio": "if.mp3"
+  },
+  {
+    "en": "in",
+    "pt": "em",
+    "audio": "in.mp3"
+  },
+  {
+    "en": "into",
+    "pt": "em",
+    "audio": "into.mp3"
+  },
+  {
+    "en": "it",
+    "pt": "isso",
+    "audio": "it.mp3"
+  },
+  {
+    "en": "its",
+    "pt": "seu",
+    "audio": "its.mp3"
+  },
+  {
+    "en": "just",
+    "pt": "apenas",
+    "audio": "just.mp3"
+  },
+  {
+    "en": "know",
+    "pt": "saber",
+    "audio": "know.mp3"
+  },
+  {
+    "en": "like",
+    "pt": "gostar",
+    "audio": "like.mp3"
+  },
+  {
+    "en": "look",
+    "pt": "olhar",
+    "audio": "look.mp3"
+  },
+  {
+    "en": "make",
+    "pt": "fazer",
+    "audio": "make.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "many",
+    "pt": "muitos",
+    "audio": "many.mp3"
+  },
+  {
+    "en": "me",
+    "pt": "me",
+    "audio": "me.mp3"
+  },
+  {
+    "en": "more",
+    "pt": "mais",
+    "audio": "more.mp3"
+  },
+  {
+    "en": "my",
+    "pt": "meu",
+    "audio": "my.mp3"
+  },
+  {
+    "en": "new",
+    "pt": "novo",
+    "audio": "new.mp3"
+  },
+  {
+    "en": "no",
+    "pt": "não",
+    "audio": "no.mp3"
+  },
+  {
+    "en": "not",
+    "pt": "não",
+    "audio": "not.mp3"
+  },
+  {
+    "en": "now",
+    "pt": "agora",
+    "audio": "now.mp3"
+  },
+  {
+    "en": "of",
+    "pt": "de",
+    "audio": "of.mp3"
+  },
+  {
+    "en": "on",
+    "pt": "em",
+    "audio": "on.mp3"
+  },
+  {
+    "en": "one",
+    "pt": "um",
+    "audio": "one.mp3"
+  },
+  {
+    "en": "only",
+    "pt": "somente",
+    "audio": "only.mp3"
+  },
+  {
+    "en": "or",
+    "pt": "ou",
+    "audio": "or.mp3"
+  },
+  {
+    "en": "other",
+    "pt": "outro",
+    "audio": "other.mp3"
+  },
+  {
+    "en": "our",
+    "pt": "nosso",
+    "audio": "our.mp3"
+  },
+  {
+    "en": "out",
+    "pt": "fora",
+    "audio": "out.mp3"
+  },
+  {
+    "en": "people",
+    "pt": "pessoas",
+    "audio": "people.mp3"
+  },
+  {
+    "en": "say",
+    "pt": "dizer",
+    "audio": "say.mp3"
+  },
+  {
+    "en": "see",
+    "pt": "ver",
+    "audio": "see.mp3"
+  },
+  {
+    "en": "she",
+    "pt": "ela",
+    "audio": "she.mp3"
+  },
+  {
+    "en": "so",
+    "pt": "então",
+    "audio": "so.mp3"
+  },
+  {
+    "en": "some",
+    "pt": "algum",
+    "audio": "some.mp3"
+  },
+  {
+    "en": "take",
+    "pt": "pegar",
+    "audio": "take.mp3"
+  },
+  {
+    "en": "than",
+    "pt": "do que",
+    "audio": "than.mp3"
+  },
+  {
+    "en": "that",
+    "pt": "que",
+    "audio": "that.mp3"
+  },
+  {
+    "en": "the",
+    "pt": "o",
+    "audio": "the.mp3"
+  },
+  {
+    "en": "their",
+    "pt": "deles",
+    "audio": "their.mp3"
+  },
+  {
+    "en": "them",
+    "pt": "eles",
+    "audio": "them.mp3"
+  },
+  {
+    "en": "then",
+    "pt": "então",
+    "audio": "then.mp3"
+  },
+  {
+    "en": "there",
+    "pt": "lá",
+    "audio": "there.mp3"
+  },
+  {
+    "en": "these",
+    "pt": "estes",
+    "audio": "these.mp3"
+  },
+  {
+    "en": "they",
+    "pt": "eles",
+    "audio": "they.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "think",
+    "pt": "pensar",
+    "audio": "think.mp3"
+  },
+  {
+    "en": "this",
+    "pt": "este",
+    "audio": "this.mp3"
+  },
+  {
+    "en": "those",
+    "pt": "aqueles",
+    "audio": "those.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "to",
+    "pt": "para",
+    "audio": "to.mp3"
+  },
+  {
+    "en": "two",
+    "pt": "dois",
+    "audio": "two.mp3"
+  },
+  {
+    "en": "up",
+    "pt": "cima",
+    "audio": "up.mp3"
+  },
+  {
+    "en": "use",
+    "pt": "usar",
+    "audio": "use.mp3"
+  },
+  {
+    "en": "very",
+    "pt": "muito",
+    "audio": "very.mp3"
+  },
+  {
+    "en": "want",
+    "pt": "querer",
+    "audio": "want.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "we",
+    "pt": "nós",
+    "audio": "we.mp3"
+  },
+  {
+    "en": "well",
+    "pt": "bem",
+    "audio": "well.mp3"
+  },
+  {
+    "en": "what",
+    "pt": "o que",
+    "audio": "what.mp3"
+  },
+  {
+    "en": "when",
+    "pt": "quando",
+    "audio": "when.mp3"
+  },
+  {
+    "en": "which",
+    "pt": "qual",
+    "audio": "which.mp3"
+  },
+  {
+    "en": "who",
+    "pt": "quem",
+    "audio": "who.mp3"
+  },
+  {
+    "en": "will",
+    "pt": "vai",
+    "audio": "will.mp3"
+  },
+  {
+    "en": "with",
+    "pt": "com",
+    "audio": "with.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "would",
+    "pt": "gostaria",
+    "audio": "would.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "you",
+    "pt": "você",
+    "audio": "you.mp3"
+  },
+  {
+    "en": "your",
+    "pt": "seu",
+    "audio": "your.mp3"
+  },
+  {
+    "en": "a",
+    "pt": "um",
+    "audio": "a.mp3"
+  },
+  {
+    "en": "about",
+    "pt": "sobre",
+    "audio": "about.mp3"
+  },
+  {
+    "en": "after",
+    "pt": "depois",
+    "audio": "after.mp3"
+  },
+  {
+    "en": "all",
+    "pt": "tudo",
+    "audio": "all.mp3"
+  },
+  {
+    "en": "also",
+    "pt": "também",
+    "audio": "also.mp3"
+  },
+  {
+    "en": "and",
+    "pt": "e",
+    "audio": "and.mp3"
+  },
+  {
+    "en": "as",
+    "pt": "como",
+    "audio": "as.mp3"
+  },
+  {
+    "en": "at",
+    "pt": "em",
+    "audio": "at.mp3"
+  },
+  {
+    "en": "be",
+    "pt": "ser",
+    "audio": "be.mp3"
+  },
+  {
+    "en": "because",
+    "pt": "porque",
+    "audio": "because.mp3"
+  },
+  {
+    "en": "but",
+    "pt": "mas",
+    "audio": "but.mp3"
+  },
+  {
+    "en": "by",
+    "pt": "por",
+    "audio": "by.mp3"
+  },
+  {
+    "en": "can",
+    "pt": "poder",
+    "audio": "can.mp3"
+  },
+  {
+    "en": "come",
+    "pt": "vir",
+    "audio": "come.mp3"
+  },
+  {
+    "en": "do",
+    "pt": "fazer",
+    "audio": "do.mp3"
+  },
+  {
+    "en": "down",
+    "pt": "baixo",
+    "audio": "down.mp3"
+  },
+  {
+    "en": "even",
+    "pt": "mesmo",
+    "audio": "even.mp3"
+  },
+  {
+    "en": "first",
+    "pt": "primeiro",
+    "audio": "first.mp3"
+  },
+  {
+    "en": "for",
+    "pt": "para",
+    "audio": "for.mp3"
+  },
+  {
+    "en": "from",
+    "pt": "de",
+    "audio": "from.mp3"
+  },
+  {
+    "en": "get",
+    "pt": "obter",
+    "audio": "get.mp3"
+  },
+  {
+    "en": "give",
+    "pt": "dar",
+    "audio": "give.mp3"
+  },
+  {
+    "en": "go",
+    "pt": "ir",
+    "audio": "go.mp3"
+  },
+  {
+    "en": "good",
+    "pt": "bom",
+    "audio": "good.mp3"
+  },
+  {
+    "en": "have",
+    "pt": "ter",
+    "audio": "have.mp3"
+  },
+  {
+    "en": "he",
+    "pt": "ele",
+    "audio": "he.mp3"
+  },
+  {
+    "en": "her",
+    "pt": "ela",
+    "audio": "her.mp3"
+  },
+  {
+    "en": "here",
+    "pt": "aqui",
+    "audio": "here.mp3"
+  },
+  {
+    "en": "him",
+    "pt": "ele",
+    "audio": "him.mp3"
+  },
+  {
+    "en": "his",
+    "pt": "dele",
+    "audio": "his.mp3"
+  },
+  {
+    "en": "how",
+    "pt": "como",
+    "audio": "how.mp3"
+  },
+  {
+    "en": "I",
+    "pt": "eu",
+    "audio": "I.mp3"
+  },
+  {
+    "en": "if",
+    "pt": "se",
+    "audio": "if.mp3"
+  },
+  {
+    "en": "in",
+    "pt": "em",
+    "audio": "in.mp3"
+  },
+  {
+    "en": "into",
+    "pt": "em",
+    "audio": "into.mp3"
+  },
+  {
+    "en": "it",
+    "pt": "isso",
+    "audio": "it.mp3"
+  },
+  {
+    "en": "its",
+    "pt": "seu",
+    "audio": "its.mp3"
+  },
+  {
+    "en": "just",
+    "pt": "apenas",
+    "audio": "just.mp3"
+  },
+  {
+    "en": "know",
+    "pt": "saber",
+    "audio": "know.mp3"
+  },
+  {
+    "en": "like",
+    "pt": "gostar",
+    "audio": "like.mp3"
+  },
+  {
+    "en": "look",
+    "pt": "olhar",
+    "audio": "look.mp3"
+  },
+  {
+    "en": "make",
+    "pt": "fazer",
+    "audio": "make.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "many",
+    "pt": "muitos",
+    "audio": "many.mp3"
+  },
+  {
+    "en": "me",
+    "pt": "me",
+    "audio": "me.mp3"
+  },
+  {
+    "en": "more",
+    "pt": "mais",
+    "audio": "more.mp3"
+  },
+  {
+    "en": "my",
+    "pt": "meu",
+    "audio": "my.mp3"
+  },
+  {
+    "en": "new",
+    "pt": "novo",
+    "audio": "new.mp3"
+  },
+  {
+    "en": "no",
+    "pt": "não",
+    "audio": "no.mp3"
+  },
+  {
+    "en": "not",
+    "pt": "não",
+    "audio": "not.mp3"
+  },
+  {
+    "en": "now",
+    "pt": "agora",
+    "audio": "now.mp3"
+  },
+  {
+    "en": "of",
+    "pt": "de",
+    "audio": "of.mp3"
+  },
+  {
+    "en": "on",
+    "pt": "em",
+    "audio": "on.mp3"
+  },
+  {
+    "en": "one",
+    "pt": "um",
+    "audio": "one.mp3"
+  },
+  {
+    "en": "only",
+    "pt": "somente",
+    "audio": "only.mp3"
+  },
+  {
+    "en": "or",
+    "pt": "ou",
+    "audio": "or.mp3"
+  },
+  {
+    "en": "other",
+    "pt": "outro",
+    "audio": "other.mp3"
+  },
+  {
+    "en": "our",
+    "pt": "nosso",
+    "audio": "our.mp3"
+  },
+  {
+    "en": "out",
+    "pt": "fora",
+    "audio": "out.mp3"
+  },
+  {
+    "en": "people",
+    "pt": "pessoas",
+    "audio": "people.mp3"
+  },
+  {
+    "en": "say",
+    "pt": "dizer",
+    "audio": "say.mp3"
+  },
+  {
+    "en": "see",
+    "pt": "ver",
+    "audio": "see.mp3"
+  },
+  {
+    "en": "she",
+    "pt": "ela",
+    "audio": "she.mp3"
+  },
+  {
+    "en": "so",
+    "pt": "então",
+    "audio": "so.mp3"
+  },
+  {
+    "en": "some",
+    "pt": "algum",
+    "audio": "some.mp3"
+  },
+  {
+    "en": "take",
+    "pt": "pegar",
+    "audio": "take.mp3"
+  },
+  {
+    "en": "than",
+    "pt": "do que",
+    "audio": "than.mp3"
+  },
+  {
+    "en": "that",
+    "pt": "que",
+    "audio": "that.mp3"
+  },
+  {
+    "en": "the",
+    "pt": "o",
+    "audio": "the.mp3"
+  },
+  {
+    "en": "their",
+    "pt": "deles",
+    "audio": "their.mp3"
+  },
+  {
+    "en": "them",
+    "pt": "eles",
+    "audio": "them.mp3"
+  },
+  {
+    "en": "then",
+    "pt": "então",
+    "audio": "then.mp3"
+  },
+  {
+    "en": "there",
+    "pt": "lá",
+    "audio": "there.mp3"
+  },
+  {
+    "en": "these",
+    "pt": "estes",
+    "audio": "these.mp3"
+  },
+  {
+    "en": "they",
+    "pt": "eles",
+    "audio": "they.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "think",
+    "pt": "pensar",
+    "audio": "think.mp3"
+  },
+  {
+    "en": "this",
+    "pt": "este",
+    "audio": "this.mp3"
+  },
+  {
+    "en": "those",
+    "pt": "aqueles",
+    "audio": "those.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "to",
+    "pt": "para",
+    "audio": "to.mp3"
+  },
+  {
+    "en": "two",
+    "pt": "dois",
+    "audio": "two.mp3"
+  },
+  {
+    "en": "up",
+    "pt": "cima",
+    "audio": "up.mp3"
+  },
+  {
+    "en": "use",
+    "pt": "usar",
+    "audio": "use.mp3"
+  },
+  {
+    "en": "very",
+    "pt": "muito",
+    "audio": "very.mp3"
+  },
+  {
+    "en": "want",
+    "pt": "querer",
+    "audio": "want.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "we",
+    "pt": "nós",
+    "audio": "we.mp3"
+  },
+  {
+    "en": "well",
+    "pt": "bem",
+    "audio": "well.mp3"
+  },
+  {
+    "en": "what",
+    "pt": "o que",
+    "audio": "what.mp3"
+  },
+  {
+    "en": "when",
+    "pt": "quando",
+    "audio": "when.mp3"
+  },
+  {
+    "en": "which",
+    "pt": "qual",
+    "audio": "which.mp3"
+  },
+  {
+    "en": "who",
+    "pt": "quem",
+    "audio": "who.mp3"
+  },
+  {
+    "en": "will",
+    "pt": "vai",
+    "audio": "will.mp3"
+  },
+  {
+    "en": "with",
+    "pt": "com",
+    "audio": "with.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "would",
+    "pt": "gostaria",
+    "audio": "would.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "you",
+    "pt": "você",
+    "audio": "you.mp3"
+  },
+  {
+    "en": "your",
+    "pt": "seu",
+    "audio": "your.mp3"
+  }
+]

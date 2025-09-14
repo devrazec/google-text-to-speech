@@ -1,0 +1,5002 @@
+[
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "country",
+    "pt": "país",
+    "audio": "country.mp3"
+  },
+  {
+    "en": "city",
+    "pt": "cidade",
+    "audio": "city.mp3"
+  },
+  {
+    "en": "community",
+    "pt": "comunidade",
+    "audio": "community.mp3"
+  },
+  {
+    "en": "story",
+    "pt": "história",
+    "audio": "story.mp3"
+  },
+  {
+    "en": "house",
+    "pt": "casa",
+    "audio": "house.mp3"
+  },
+  {
+    "en": "friend",
+    "pt": "amigo",
+    "audio": "friend.mp3"
+  },
+  {
+    "en": "father",
+    "pt": "pai",
+    "audio": "father.mp3"
+  },
+  {
+    "en": "mother",
+    "pt": "mãe",
+    "audio": "mother.mp3"
+  },
+  {
+    "en": "brother",
+    "pt": "irmão",
+    "audio": "brother.mp3"
+  },
+  {
+    "en": "sister",
+    "pt": "irmã",
+    "audio": "sister.mp3"
+  },
+  {
+    "en": "car",
+    "pt": "carro",
+    "audio": "car.mp3"
+  },
+  {
+    "en": "hour",
+    "pt": "hora",
+    "audio": "hour.mp3"
+  },
+  {
+    "en": "game",
+    "pt": "jogo",
+    "audio": "game.mp3"
+  },
+  {
+    "en": "business",
+    "pt": "negócio",
+    "audio": "business.mp3"
+  },
+  {
+    "en": "service",
+    "pt": "serviço",
+    "audio": "service.mp3"
+  },
+  {
+    "en": "money",
+    "pt": "dinheiro",
+    "audio": "money.mp3"
+  },
+  {
+    "en": "job",
+    "pt": "trabalho",
+    "audio": "job.mp3"
+  },
+  {
+    "en": "body",
+    "pt": "corpo",
+    "audio": "body.mp3"
+  },
+  {
+    "en": "name",
+    "pt": "nome",
+    "audio": "name.mp3"
+  },
+  {
+    "en": "face",
+    "pt": "rosto",
+    "audio": "face.mp3"
+  },
+  {
+    "en": "door",
+    "pt": "porta",
+    "audio": "door.mp3"
+  },
+  {
+    "en": "side",
+    "pt": "lado",
+    "audio": "side.mp3"
+  },
+  {
+    "en": "system",
+    "pt": "sistema",
+    "audio": "system.mp3"
+  },
+  {
+    "en": "program",
+    "pt": "programa",
+    "audio": "program.mp3"
+  },
+  {
+    "en": "question",
+    "pt": "pergunta",
+    "audio": "question.mp3"
+  },
+  {
+    "en": "answer",
+    "pt": "resposta",
+    "audio": "answer.mp3"
+  },
+  {
+    "en": "war",
+    "pt": "guerra",
+    "audio": "war.mp3"
+  },
+  {
+    "en": "history",
+    "pt": "história",
+    "audio": "history.mp3"
+  },
+  {
+    "en": "police",
+    "pt": "polícia",
+    "audio": "police.mp3"
+  },
+  {
+    "en": "office",
+    "pt": "escritório",
+    "audio": "office.mp3"
+  },
+  {
+    "en": "room",
+    "pt": "quarto",
+    "audio": "room.mp3"
+  },
+  {
+    "en": "market",
+    "pt": "mercado",
+    "audio": "market.mp3"
+  },
+  {
+    "en": "level",
+    "pt": "nível",
+    "audio": "level.mp3"
+  },
+  {
+    "en": "food",
+    "pt": "comida",
+    "audio": "food.mp3"
+  },
+  {
+    "en": "water",
+    "pt": "água",
+    "audio": "water.mp3"
+  },
+  {
+    "en": "air",
+    "pt": "ar",
+    "audio": "air.mp3"
+  },
+  {
+    "en": "teacher",
+    "pt": "professor",
+    "audio": "teacher.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "aluno",
+    "audio": "student.mp3"
+  },
+  {
+    "en": "language",
+    "pt": "língua",
+    "audio": "language.mp3"
+  },
+  {
+    "en": "book",
+    "pt": "livro",
+    "audio": "book.mp3"
+  },
+  {
+    "en": "film",
+    "pt": "filme",
+    "audio": "film.mp3"
+  },
+  {
+    "en": "music",
+    "pt": "música",
+    "audio": "music.mp3"
+  },
+  {
+    "en": "art",
+    "pt": "arte",
+    "audio": "art.mp3"
+  },
+  {
+    "en": "science",
+    "pt": "ciência",
+    "audio": "science.mp3"
+  },
+  {
+    "en": "computer",
+    "pt": "computador",
+    "audio": "computer.mp3"
+  },
+  {
+    "en": "internet",
+    "pt": "internet",
+    "audio": "internet.mp3"
+  },
+  {
+    "en": "phone",
+    "pt": "telefone",
+    "audio": "phone.mp3"
+  },
+  {
+    "en": "team",
+    "pt": "equipe",
+    "audio": "team.mp3"
+  },
+  {
+    "en": "party",
+    "pt": "festa",
+    "audio": "party.mp3"
+  },
+  {
+    "en": "law",
+    "pt": "lei",
+    "audio": "law.mp3"
+  },
+  {
+    "en": "court",
+    "pt": "tribunal",
+    "audio": "court.mp3"
+  },
+  {
+    "en": "president",
+    "pt": "presidente",
+    "audio": "president.mp3"
+  },
+  {
+    "en": "minister",
+    "pt": "ministro",
+    "audio": "minister.mp3"
+  },
+  {
+    "en": "doctor",
+    "pt": "médico",
+    "audio": "doctor.mp3"
+  },
+  {
+    "en": "hospital",
+    "pt": "hospital",
+    "audio": "hospital.mp3"
+  },
+  {
+    "en": "medicine",
+    "pt": "remédio",
+    "audio": "medicine.mp3"
+  },
+  {
+    "en": "price",
+    "pt": "preço",
+    "audio": "price.mp3"
+  },
+  {
+    "en": "shop",
+    "pt": "loja",
+    "audio": "shop.mp3"
+  },
+  {
+    "en": "street",
+    "pt": "rua",
+    "audio": "street.mp3"
+  },
+  {
+    "en": "road",
+    "pt": "estrada",
+    "audio": "road.mp3"
+  },
+  {
+    "en": "university",
+    "pt": "universidade",
+    "audio": "university.mp3"
+  },
+  {
+    "en": "bank",
+    "pt": "banco",
+    "audio": "bank.mp3"
+  },
+  {
+    "en": "church",
+    "pt": "igreja",
+    "audio": "church.mp3"
+  },
+  {
+    "en": "power",
+    "pt": "poder",
+    "audio": "power.mp3"
+  },
+  {
+    "en": "energy",
+    "pt": "energia",
+    "audio": "energy.mp3"
+  },
+  {
+    "en": "love",
+    "pt": "amor",
+    "audio": "love.mp3"
+  },
+  {
+    "en": "childhood",
+    "pt": "infância",
+    "audio": "childhood.mp3"
+  },
+  {
+    "en": "time",
+    "pt": "tempo",
+    "audio": "time.mp3"
+  },
+  {
+    "en": "person",
+    "pt": "pessoa",
+    "audio": "person.mp3"
+  },
+  {
+    "en": "year",
+    "pt": "ano",
+    "audio": "year.mp3"
+  },
+  {
+    "en": "way",
+    "pt": "caminho",
+    "audio": "way.mp3"
+  },
+  {
+    "en": "day",
+    "pt": "dia",
+    "audio": "day.mp3"
+  },
+  {
+    "en": "thing",
+    "pt": "coisa",
+    "audio": "thing.mp3"
+  },
+  {
+    "en": "man",
+    "pt": "homem",
+    "audio": "man.mp3"
+  },
+  {
+    "en": "woman",
+    "pt": "mulher",
+    "audio": "woman.mp3"
+  },
+  {
+    "en": "child",
+    "pt": "criança",
+    "audio": "child.mp3"
+  },
+  {
+    "en": "world",
+    "pt": "mundo",
+    "audio": "world.mp3"
+  },
+  {
+    "en": "life",
+    "pt": "vida",
+    "audio": "life.mp3"
+  },
+  {
+    "en": "hand",
+    "pt": "mão",
+    "audio": "hand.mp3"
+  },
+  {
+    "en": "part",
+    "pt": "parte",
+    "audio": "part.mp3"
+  },
+  {
+    "en": "eye",
+    "pt": "olho",
+    "audio": "eye.mp3"
+  },
+  {
+    "en": "place",
+    "pt": "lugar",
+    "audio": "place.mp3"
+  },
+  {
+    "en": "work",
+    "pt": "trabalho",
+    "audio": "work.mp3"
+  },
+  {
+    "en": "week",
+    "pt": "semana",
+    "audio": "week.mp3"
+  },
+  {
+    "en": "case",
+    "pt": "caso",
+    "audio": "case.mp3"
+  },
+  {
+    "en": "point",
+    "pt": "ponto",
+    "audio": "point.mp3"
+  },
+  {
+    "en": "government",
+    "pt": "governo",
+    "audio": "government.mp3"
+  },
+  {
+    "en": "company",
+    "pt": "empresa",
+    "audio": "company.mp3"
+  },
+  {
+    "en": "number",
+    "pt": "número",
+    "audio": "number.mp3"
+  },
+  {
+    "en": "group",
+    "pt": "grupo",
+    "audio": "group.mp3"
+  },
+  {
+    "en": "problem",
+    "pt": "problema",
+    "audio": "problem.mp3"
+  },
+  {
+    "en": "fact",
+    "pt": "fato",
+    "audio": "fact.mp3"
+  },
+  {
+    "en": "home",
+    "pt": "casa",
+    "audio": "home.mp3"
+  },
+  {
+    "en": "school",
+    "pt": "escola",
+    "audio": "school.mp3"
+  },
+  {
+    "en": "state",
+    "pt": "estado",
+    "audio": "state.mp3"
+  },
+  {
+    "en": "family",
+    "pt": "família",
+    "audio": "family.mp3"
+  },
+  {
+    "en": "student",
+    "pt": "estudante",
+    "audio": "student.mp3"
+  }
+]
