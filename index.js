@@ -6,7 +6,7 @@ import textToSpeech from "@google-cloud/text-to-speech";
 const client = new textToSpeech.TextToSpeechClient();
 
 // Path to the JSON file
-const wordsFile = "json/word_100.json";
+const wordsFile = "json/word_300.json";
 const outputDir = "audios";
 
 // Ensure output folder exists
