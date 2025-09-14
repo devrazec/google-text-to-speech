@@ -6,23 +6,40 @@ import textToSpeech from "@google-cloud/text-to-speech";
 const client = new textToSpeech.TextToSpeechClient();
 
 // Path to the JSON file
-const wordsFile = "json/word_300.json";
+const wordsFile = "json/word_100.json";
 const outputDir = "audios";
 
 // Ensure output folder exists
-if (!fs.existsSync(outputDir)) {
-  fs.mkdirSync(outputDir, { recursive: true });
+await fs.promises.mkdir(outputDir, { recursive: true });
+
+// Helper to sanitize words into safe filenames
+function sanitizeFileName(word) {
+  return word
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "_") // replace non-alphanumeric chars with "_"
+    .replace(/^_+|_+$/g, "")     // trim leading/trailing "_"
+    + ".mp3";
+}
+
+// Check if file exists
+async function fileExists(filePath) {
+  try {
+    await fs.promises.access(filePath, fs.constants.F_OK);
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 async function generateAudio() {
   // Load words
-  const words = JSON.parse(fs.readFileSync(wordsFile, "utf8"));
+  const words = JSON.parse(await fs.promises.readFile(wordsFile, "utf8"));
 
-  for (const { en, audio } of words) {
-    const filePath = path.join(outputDir, audio);
+  for (const { en } of words) {
+    const fileName = sanitizeFileName(en);
+    const filePath = path.join(outputDir, fileName);
 
-    // ✅ Skip if file already exists
-    if (fs.existsSync(filePath)) {
+    if (await fileExists(filePath)) {
       console.log(`⏭️ Skipped (already exists): ${filePath}`);
       continue;
     }
@@ -37,7 +54,6 @@ async function generateAudio() {
       const [response] = await client.synthesizeSpeech(request);
 
       await fs.promises.writeFile(filePath, response.audioContent, "binary");
-
       console.log(`✅ Created: ${filePath}`);
     } catch (err) {
       console.error(`❌ Error creating audio for "${en}":`, err);
