@@ -1,0 +1,27 @@
+[
+  {
+    "en": "that",
+    "pt": "que / aquele / aquela",
+    "audio": "that.mp3"
+  },
+  {
+    "en": "which",
+    "pt": "qual / o qual / a qual",
+    "audio": "which.mp3"
+  },
+  {
+    "en": "who",
+    "pt": "quem",
+    "audio": "who.mp3"
+  },
+  {
+    "en": "whom",
+    "pt": "a quem",
+    "audio": "whom.mp3"
+  },
+  {
+    "en": "whose",
+    "pt": "cujo/cuja",
+    "audio": "whose.mp3"
+  }
+]

@@ -2,26 +2,26 @@ import fs from "fs";
 import path from "path";
 import textToSpeech from "@google-cloud/text-to-speech";
 
-// Create Google TTS client
+// Google TTS client
 const client = new textToSpeech.TextToSpeechClient();
 
-// Path to the JSON file
+// Paths
 const wordsFile = "json/word_100.json";
 const outputDir = "audios";
 
 // Ensure output folder exists
 await fs.promises.mkdir(outputDir, { recursive: true });
 
-// Helper to sanitize words into safe filenames
+// Helper: sanitize word to safe filename
 function sanitizeFileName(word) {
   return word
     .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "_") // replace non-alphanumeric chars with "_"
-    .replace(/^_+|_+$/g, "")     // trim leading/trailing "_"
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "")
     + ".mp3";
 }
 
-// Check if file exists
+// Helper: check if file exists
 async function fileExists(filePath) {
   try {
     await fs.promises.access(filePath, fs.constants.F_OK);
@@ -31,9 +31,11 @@ async function fileExists(filePath) {
   }
 }
 
+// Generate audio for all words sequentially
 async function generateAudio() {
-  // Load words
-  const words = JSON.parse(await fs.promises.readFile(wordsFile, "utf8"));
+  const rawData = await fs.promises.readFile(wordsFile, "utf8");
+  const words = JSON.parse(rawData);
+  console.log(`📄 Loaded ${words.length} words from ${wordsFile}`);
 
   for (const { en } of words) {
     const fileName = sanitizeFileName(en);
@@ -52,13 +54,16 @@ async function generateAudio() {
       };
 
       const [response] = await client.synthesizeSpeech(request);
-
       await fs.promises.writeFile(filePath, response.audioContent, "binary");
+
       console.log(`✅ Created: ${filePath}`);
     } catch (err) {
       console.error(`❌ Error creating audio for "${en}":`, err);
     }
   }
+
+  console.log("🎯 All words processed.");
 }
 
+// Run the generator
 generateAudio();

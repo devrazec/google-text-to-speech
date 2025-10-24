@@ -1,0 +1,62 @@
+[
+  {
+    "en": "he",
+    "pt": "ele",
+    "audio": "he.mp3"
+  },
+  {
+    "en": "her",
+    "pt": "a/ela",
+    "audio": "her.mp3"
+  },
+  {
+    "en": "him",
+    "pt": "o/ele",
+    "audio": "him.mp3"
+  },
+  {
+    "en": "I",
+    "pt": "eu",
+    "audio": "i.mp3"
+  },
+  {
+    "en": "it",
+    "pt": "isso/ele/ela (objeto/animal)",
+    "audio": "it.mp3"
+  },
+  {
+    "en": "me",
+    "pt": "me/mim",
+    "audio": "me.mp3"
+  },
+  {
+    "en": "she",
+    "pt": "ela",
+    "audio": "she.mp3"
+  },
+  {
+    "en": "them",
+    "pt": "os/elas",
+    "audio": "them.mp3"
+  },
+  {
+    "en": "they",
+    "pt": "eles/elas",
+    "audio": "they.mp3"
+  },
+  {
+    "en": "us",
+    "pt": "nos",
+    "audio": "us.mp3"
+  },
+  {
+    "en": "we",
+    "pt": "nós",
+    "audio": "we.mp3"
+  },
+  {
+    "en": "you",
+    "pt": "tu/você",
+    "audio": "you.mp3"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "en": "anybody",
+    "pt": "qualquer pessoa",
+    "audio": "anybody.mp3"
+  },
+  {
+    "en": "anyone",
+    "pt": "qualquer pessoa",
+    "audio": "anyone.mp3"
+  },
+  {
+    "en": "anything",
+    "pt": "qualquer coisa",
+    "audio": "anything.mp3"
+  },
+  {
+    "en": "each",
+    "pt": "cada um",
+    "audio": "each.mp3"
+  },
+  {
+    "en": "either",
+    "pt": "um ou outro",
+    "audio": "either.mp3"
+  },
+  {
+    "en": "everybody",
+    "pt": "todos",
+    "audio": "everybody.mp3"
+  },
+  {
+    "en": "everyone",
+    "pt": "todos",
+    "audio": "everyone.mp3"
+  },
+  {
+    "en": "everything",
+    "pt": "tudo",
+    "audio": "everything.mp3"
+  },
+  {
+    "en": "neither",
+    "pt": "nenhum dos dois",
+    "audio": "neither.mp3"
+  },
+  {
+    "en": "no one",
+    "pt": "ninguém",
+    "audio": "no_one.mp3"
+  },
+  {
+    "en": "nobody",
+    "pt": "ninguém",
+    "audio": "nobody.mp3"
+  },
+  {
+    "en": "nothing",
+    "pt": "nada",
+    "audio": "nothing.mp3"
+  },
+  {
+    "en": "somebody",
+    "pt": "alguém",
+    "audio": "somebody.mp3"
+  },
+  {
+    "en": "someone",
+    "pt": "alguém",
+    "audio": "someone.mp3"
+  },
+  {
+    "en": "something",
+    "pt": "algo",
+    "audio": "something.mp3"
+  }
+]

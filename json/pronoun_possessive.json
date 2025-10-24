@@ -1,0 +1,37 @@
+[
+  {
+    "en": "hers",
+    "pt": "dela",
+    "audio": "hers.mp3"
+  },
+  {
+    "en": "his",
+    "pt": "dele",
+    "audio": "his.mp3"
+  },
+  {
+    "en": "its",
+    "pt": "dele/dela (objeto/animal)",
+    "audio": "its.mp3"
+  },
+  {
+    "en": "mine",
+    "pt": "meu/minha",
+    "audio": "mine.mp3"
+  },
+  {
+    "en": "ours",
+    "pt": "nosso/nossa",
+    "audio": "ours.mp3"
+  },
+  {
+    "en": "theirs",
+    "pt": "deles/delas",
+    "audio": "theirs.mp3"
+  },
+  {
+    "en": "yours",
+    "pt": "teu/tua / seu/sua",
+    "audio": "yours.mp3"
+  }
+]

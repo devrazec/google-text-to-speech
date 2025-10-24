@@ -1,0 +1,22 @@
+[
+  {
+    "en": "that",
+    "pt": "isso/aquele/aquela",
+    "audio": "that.mp3"
+  },
+  {
+    "en": "these",
+    "pt": "estes/estas",
+    "audio": "these.mp3"
+  },
+  {
+    "en": "this",
+    "pt": "isto/este/esta",
+    "audio": "this.mp3"
+  },
+  {
+    "en": "those",
+    "pt": "aqueles/aquelas",
+    "audio": "those.mp3"
+  }
+]
