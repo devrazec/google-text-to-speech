@@ -16,6 +16,12 @@ gcloud auth activate-service-account --key-file=json/text_to_speech_keys.json
 
 https://console.cloud.google.com/home/dashboard?project=text-to-speech-471620
 
+
+
+
+install if gcloud init doesn't work
+brew install --cask google-cloud-sdk
+
 To run the script
 gcloud init
 [1] devrazec@gmail.com

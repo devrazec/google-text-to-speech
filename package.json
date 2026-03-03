@@ -6,12 +6,14 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
+    "fluentor": "node fluentor.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@google-cloud/text-to-speech": "^6.3.0"
+    "@google-cloud/text-to-speech": "^6.3.0",
+    "xlsx": "^0.18.5"
   }
 }
