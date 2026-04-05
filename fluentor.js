@@ -7,8 +7,8 @@ import * as XLSX from 'xlsx';
 const client = new textToSpeech.TextToSpeechClient();
 
 // Paths
-const xlsxPath = "xlsx/276_Question.xlsx";
-const outputDir = "mp3/question";
+const xlsxPath = "xlsx/828_Answer.xlsx";
+const outputDir = "mp3/answer";
 
 // Ensure output folder exists
 await fs.promises.mkdir(outputDir, { recursive: true });
@@ -34,7 +34,7 @@ async function generateAudio() {
 
   for (const row of jsonData) {
     const fileName = row["mp3"];
-    const en = row["en"];
+    const en = row["name"];
     const filePath = path.join(outputDir, fileName);
 
     if (await fileExists(filePath)) {
